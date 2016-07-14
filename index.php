@@ -25,7 +25,7 @@
                 </ul>
             </nav>
         </header>
-
+        <p>HOLA </p>
         <section id="main">
             <?php
 
