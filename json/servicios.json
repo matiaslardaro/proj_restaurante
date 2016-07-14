@@ -1,0 +1,20 @@
+{
+    "prestaciones": [
+        {
+            "id": 0,
+            "descripcion": "Aire acondicionado"
+        },
+
+        {
+            "id": 1,
+            "descripcion": "Wifi"
+            },
+        {
+            "id": 2,
+            "descripcion": "Mesas al aire libre"
+            },
+        {
+            "id": 3,
+            "descripcion": "Estacionamiento gratis"
+            }]
+}
