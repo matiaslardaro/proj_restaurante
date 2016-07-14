@@ -18,14 +18,13 @@
             <!--  menú de navegación -->
             <nav>
                 <ul>
-                    <li><a href="#">INICIO</a></li>
+                    <li><a href="#">HOME</a></li>
                     <li><a href="#">CARTAS</a></li>
                     <li><a href="#" id="linkPromociones">PROMOCIONES</a></li>
                     <li><a href="#">CONTACTENOS</a></li>
                 </ul>
             </nav>
         </header>
-        <p>HOLA como Estas</p>
         <section id="main">
             <?php
 
